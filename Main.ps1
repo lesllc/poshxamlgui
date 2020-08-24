@@ -19,7 +19,7 @@ Function Get-FixedDisk {
 
 ################################################################################
 # where is the XAML file?
-$xamlFile = <# location to .xaml file goes here… #>
+$xamlFile = ".\MainWindow.xaml"
 
 ################################################################################
 # create window and mangle the xaml
